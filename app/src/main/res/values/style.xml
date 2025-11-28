@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomButtonCreateUser">
+        <item name="android:backgroundTint">@color/azul</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+</resources>
