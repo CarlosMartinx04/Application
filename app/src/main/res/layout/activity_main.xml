@@ -4,6 +4,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/montana"
     tools:context=".RegistrarteActivity">
 
     <TextView
@@ -213,7 +214,9 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/gris"
+                    android:textColor="@color/grisOscuro"
+                    android:textSize="15dp"
+                    android:fontFamily="@font/publicsans_blod"
                     android:text="O"/>
             </LinearLayout>
             <View

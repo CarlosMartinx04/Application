@@ -4,5 +4,6 @@
     <color name="blanco">#FFFFFFFF</color>
     <color name="azul">#2196F3</color>
     <color name="gris">#80908E8E</color>
+    <color name="grisOscuro">#E6908E8E</color>
 
 </resources>
