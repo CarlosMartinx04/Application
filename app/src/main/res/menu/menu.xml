@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Inicio"
+        android:title="Inicio"
+        android:icon="@drawable/baseline_burst_mode_24"/>
+
+    <item
+        android:id="@+id/Notificaciones"
+        android:title="Notificaciones"
+        android:icon="@drawable/baseline_circle_notifications_24"/>
+
+    <item
+        android:id="@+id/Perfil"
+        android:title="Perfil"
+        android:icon="@drawable/outline_admin_panel_settings_24"/>
+
+</menu>
