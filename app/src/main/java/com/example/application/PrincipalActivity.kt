@@ -9,7 +9,7 @@ import androidx.core.view.WindowInsetsCompat
 import com.example.application.databinding.ActivityPrincipalBinding
 
 class PrincipalActivity : AppCompatActivity() {
-    lateinit var binding: ActivityPrincipalBinding
+    lateinit var binding:ActivityPrincipalBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
