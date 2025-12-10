@@ -6,7 +6,7 @@
     android:id="@+id/iniciar_sesion"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".RegistrarteActivity">
+    tools:context=".IniciarSesion">
 
     <TextView
         android:id="@+id/textViewTituloRegistro"
